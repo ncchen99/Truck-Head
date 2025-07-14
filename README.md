@@ -3,6 +3,7 @@
 
 
 Next.js + React + Tailwind + shadcn/ui  + Supabase + GraphQL
+
 商品頁 ISR + 庫存和價格使用 CSR 
 
 
